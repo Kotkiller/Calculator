@@ -1,0 +1,51 @@
+.calc-body {
+    border: 2px solid black;
+    border-radius:30px;
+    width: 280px;
+    height: 400px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+	background-color:#808080;
+}
+.display {
+    border: 1px solid black;
+    border-radius:20px;
+    height: 50px;
+    width: 250px;
+	margin-bottom:40px;
+	background-color:white;
+    }
+.operators {
+      border: 1px solid black;
+    border-radius:10px;
+    height: 250px;
+    width: 255px;
+   margin-top:120px;
+   padding-top:10px;
+   margin-left:-3px;
+  
+	}
+	
+	 .opbuttonMath {
+		width:50px;
+		height:40px;
+		margin-left:8px;
+		margin-bottom:10px;
+		padding:0;
+		font-size:20px;
+			 }
+   
+	.opbuttonMath:hover{
+		background-color:#1E90FF;
+		color:white;
+	}
+	
+	.opbutton {
+		width:50px;
+		height:40px;
+		margin-left:8px;
+		margin-bottom:10px;
+		padding:0;
+		font-size:20px;
+			}
